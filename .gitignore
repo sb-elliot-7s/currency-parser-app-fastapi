@@ -1,0 +1,8 @@
+.idea
+.env
+celerybeat-schedule
+docker-compose.yml
+.vscode
+/venv
+__pycache__/
+.DS_Store
